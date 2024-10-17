@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\platu\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\WpfAppNBRB\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0D413D72-47C5-4AF7-B478-A9D270199578}|WpfAppNBRB\\WpfAppNBRB.csproj|C:\\Users\\platu\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\WpfAppNBRB\\wpfappnbrb\\service\\currencyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D413D72-47C5-4AF7-B478-A9D270199578}|WpfAppNBRB\\WpfAppNBRB.csproj|solutionrelative:wpfappnbrb\\service\\currencyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 256,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CurrencyService.cs",
+              "DocumentMoniker": "C:\\Users\\platu\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\WpfAppNBRB\\WpfAppNBRB\\Service\\CurrencyService.cs",
+              "RelativeDocumentMoniker": "WpfAppNBRB\\Service\\CurrencyService.cs",
+              "ToolTip": "C:\\Users\\platu\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\WpfAppNBRB\\WpfAppNBRB\\Service\\CurrencyService.cs",
+              "RelativeToolTip": "WpfAppNBRB\\Service\\CurrencyService.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAAwDYAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T17:29:05.712Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
