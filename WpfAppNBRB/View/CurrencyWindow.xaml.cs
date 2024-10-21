@@ -14,9 +14,6 @@ using System.Windows.Shapes;
 
 namespace WpfAppNBRB.View
 {
-    /// <summary>
-    /// Interaction logic for CurrencyWindow.xaml
-    /// </summary>
     public partial class CurrencyWindow : Window
     {
         public CurrencyWindow()

@@ -1,11 +1,11 @@
 ﻿<Window
-    x:Class="WpfAppNBRB.View.RateWindow"
+    x:Class="WpfAppNBRB.View.RateDynamicEditWindow"
     xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
     xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
     xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
     xmlns:local="clr-namespace:WpfAppNBRB.ViewModel"
     xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
-    Title="RateWindow"
+    Title="RateDynamicEditWindow"
     Width="800"
     Height="450"
     mc:Ignorable="d">
@@ -15,39 +15,15 @@
     </Window.DataContext>
 
     <Grid>
-        <Label
-            Margin="10,10,0,0"
-            HorizontalAlignment="Left"
-            VerticalAlignment="Top"
-            Content="Выберите дату:" />
-        <DatePicker
-            Name="DatePicker"
-            Width="200"
-            Margin="10,40,0,0"
-            HorizontalAlignment="Left"
-            VerticalAlignment="Top"
-            SelectedDate="{Binding SelectedDate}" />
-        <Button
-            Width="200"
-            Margin="10,80,0,0"
-            HorizontalAlignment="Left"
-            VerticalAlignment="Top"
-            Click="OnGetRateClick"
-            Content="Получить курс" />
-        <Button
-            Width="200"
-            Margin="10,110,0,0"
-            HorizontalAlignment="Left"
-            VerticalAlignment="Top"
-            Click="OnOpenWidndowEditClick"
-            Content="Редактировать" />
-
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*" />
+            <ColumnDefinition Width="0.8*" />
+        </Grid.ColumnDefinitions>
 
         <ListBox
-            Margin="220,40,10,10"
-            HorizontalAlignment="Stretch"
-            VerticalAlignment="Stretch"
-            ItemsSource="{Binding Rates}">
+            Grid.Column="0"
+            ItemsSource="{Binding Rates}"
+            SelectedItem="{Binding SelectedRate}">
             <ListBox.ItemTemplate>
                 <DataTemplate>
                     <StackPanel>
@@ -62,8 +38,17 @@
                 </DataTemplate>
             </ListBox.ItemTemplate>
         </ListBox>
+
+        <StackPanel Grid.Column="1" DataContext="{Binding SelectedRate}">
+            <TextBlock Text="Выбранный элемент" />
+            <TextBlock Text="Дата" />
+            <TextBlock Text="{Binding Date}" />
+            <TextBlock Text="Буквенный код" />
+            <TextBlock Text="{Binding Cur_Name}" />
+            <TextBlock Text="Имя" />
+            <TextBox Text="{Binding Cur_Abbreviation, UpdateSourceTrigger=PropertyChanged}" />
+            <TextBlock Text="Курс" />
+            <TextBox Text="{Binding Cur_OfficialRate, UpdateSourceTrigger=PropertyChanged}" />
+        </StackPanel>
     </Grid>
-
-
-
 </Window>

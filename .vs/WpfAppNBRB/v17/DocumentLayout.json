@@ -3,8 +3,64 @@
   "WorkspaceRootPath": "C:\\Users\\platu\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\WpfAppNBRB\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{0D413D72-47C5-4AF7-B478-A9D270199578}|WpfAppNBRB\\WpfAppNBRB.csproj|c:\\users\\platu\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\github\\wpfappnbrb\\wpfappnbrb\\view\\ratewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D413D72-47C5-4AF7-B478-A9D270199578}|WpfAppNBRB\\WpfAppNBRB.csproj|solutionrelative:wpfappnbrb\\view\\ratewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D413D72-47C5-4AF7-B478-A9D270199578}|WpfAppNBRB\\WpfAppNBRB.csproj|c:\\users\\platu\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\github\\wpfappnbrb\\wpfappnbrb\\view\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D413D72-47C5-4AF7-B478-A9D270199578}|WpfAppNBRB\\WpfAppNBRB.csproj|solutionrelative:wpfappnbrb\\view\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D413D72-47C5-4AF7-B478-A9D270199578}|WpfAppNBRB\\WpfAppNBRB.csproj|c:\\users\\platu\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\github\\wpfappnbrb\\wpfappnbrb\\model\\currency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D413D72-47C5-4AF7-B478-A9D270199578}|WpfAppNBRB\\WpfAppNBRB.csproj|solutionrelative:wpfappnbrb\\model\\currency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D413D72-47C5-4AF7-B478-A9D270199578}|WpfAppNBRB\\WpfAppNBRB.csproj|c:\\users\\platu\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\github\\wpfappnbrb\\wpfappnbrb\\model\\rate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D413D72-47C5-4AF7-B478-A9D270199578}|WpfAppNBRB\\WpfAppNBRB.csproj|solutionrelative:wpfappnbrb\\model\\rate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D413D72-47C5-4AF7-B478-A9D270199578}|WpfAppNBRB\\WpfAppNBRB.csproj|c:\\users\\platu\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\github\\wpfappnbrb\\wpfappnbrb\\model\\rateshort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D413D72-47C5-4AF7-B478-A9D270199578}|WpfAppNBRB\\WpfAppNBRB.csproj|solutionrelative:wpfappnbrb\\model\\rateshort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D413D72-47C5-4AF7-B478-A9D270199578}|WpfAppNBRB\\WpfAppNBRB.csproj|c:\\users\\platu\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\github\\wpfappnbrb\\wpfappnbrb\\service\\apicaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D413D72-47C5-4AF7-B478-A9D270199578}|WpfAppNBRB\\WpfAppNBRB.csproj|solutionrelative:wpfappnbrb\\service\\apicaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D413D72-47C5-4AF7-B478-A9D270199578}|WpfAppNBRB\\WpfAppNBRB.csproj|c:\\users\\platu\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\github\\wpfappnbrb\\wpfappnbrb\\service\\apiroutes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D413D72-47C5-4AF7-B478-A9D270199578}|WpfAppNBRB\\WpfAppNBRB.csproj|solutionrelative:wpfappnbrb\\service\\apiroutes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{0D413D72-47C5-4AF7-B478-A9D270199578}|WpfAppNBRB\\WpfAppNBRB.csproj|C:\\Users\\platu\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\WpfAppNBRB\\wpfappnbrb\\service\\currencyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0D413D72-47C5-4AF7-B478-A9D270199578}|WpfAppNBRB\\WpfAppNBRB.csproj|solutionrelative:wpfappnbrb\\service\\currencyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D413D72-47C5-4AF7-B478-A9D270199578}|WpfAppNBRB\\WpfAppNBRB.csproj|c:\\users\\platu\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\github\\wpfappnbrb\\wpfappnbrb\\service\\filesaver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D413D72-47C5-4AF7-B478-A9D270199578}|WpfAppNBRB\\WpfAppNBRB.csproj|solutionrelative:wpfappnbrb\\service\\filesaver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D413D72-47C5-4AF7-B478-A9D270199578}|WpfAppNBRB\\WpfAppNBRB.csproj|c:\\users\\platu\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\github\\wpfappnbrb\\wpfappnbrb\\view\\currencywindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D413D72-47C5-4AF7-B478-A9D270199578}|WpfAppNBRB\\WpfAppNBRB.csproj|solutionrelative:wpfappnbrb\\view\\currencywindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D413D72-47C5-4AF7-B478-A9D270199578}|WpfAppNBRB\\WpfAppNBRB.csproj|C:\\Users\\platu\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\WpfAppNBRB\\wpfappnbrb\\view\\ratedynamiceditwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D413D72-47C5-4AF7-B478-A9D270199578}|WpfAppNBRB\\WpfAppNBRB.csproj|solutionrelative:wpfappnbrb\\view\\ratedynamiceditwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D413D72-47C5-4AF7-B478-A9D270199578}|WpfAppNBRB\\WpfAppNBRB.csproj|C:\\Users\\platu\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\WpfAppNBRB\\wpfappnbrb\\view\\ratewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0D413D72-47C5-4AF7-B478-A9D270199578}|WpfAppNBRB\\WpfAppNBRB.csproj|solutionrelative:wpfappnbrb\\view\\ratewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D413D72-47C5-4AF7-B478-A9D270199578}|WpfAppNBRB\\WpfAppNBRB.csproj|C:\\Users\\platu\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\WpfAppNBRB\\wpfappnbrb\\viewmodel\\currencyviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D413D72-47C5-4AF7-B478-A9D270199578}|WpfAppNBRB\\WpfAppNBRB.csproj|solutionrelative:wpfappnbrb\\viewmodel\\currencyviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D413D72-47C5-4AF7-B478-A9D270199578}|WpfAppNBRB\\WpfAppNBRB.csproj|C:\\Users\\platu\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\WpfAppNBRB\\wpfappnbrb\\viewmodel\\rateviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D413D72-47C5-4AF7-B478-A9D270199578}|WpfAppNBRB\\WpfAppNBRB.csproj|solutionrelative:wpfappnbrb\\viewmodel\\rateviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D413D72-47C5-4AF7-B478-A9D270199578}|WpfAppNBRB\\WpfAppNBRB.csproj|C:\\Users\\platu\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\WpfAppNBRB\\wpfappnbrb\\viewmodel\\baseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D413D72-47C5-4AF7-B478-A9D270199578}|WpfAppNBRB\\WpfAppNBRB.csproj|solutionrelative:wpfappnbrb\\viewmodel\\baseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,19 +70,200 @@
       "DocumentGroups": [
         {
           "DockedHeight": 256,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Currency.cs",
+              "DocumentMoniker": "C:\\Users\\platu\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\WpfAppNBRB\\WpfAppNBRB\\Model\\Currency.cs",
+              "RelativeDocumentMoniker": "WpfAppNBRB\\Model\\Currency.cs",
+              "ToolTip": "C:\\Users\\platu\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\WpfAppNBRB\\WpfAppNBRB\\Model\\Currency.cs",
+              "RelativeToolTip": "WpfAppNBRB\\Model\\Currency.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T12:28:38.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Rate.cs",
+              "DocumentMoniker": "C:\\Users\\platu\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\WpfAppNBRB\\WpfAppNBRB\\Model\\Rate.cs",
+              "RelativeDocumentMoniker": "WpfAppNBRB\\Model\\Rate.cs",
+              "ToolTip": "C:\\Users\\platu\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\WpfAppNBRB\\WpfAppNBRB\\Model\\Rate.cs",
+              "RelativeToolTip": "WpfAppNBRB\\Model\\Rate.cs",
+              "ViewState": "AQIAAD0AAAAAAAAAAAAcwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T12:28:35.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RateShort.cs",
+              "DocumentMoniker": "C:\\Users\\platu\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\WpfAppNBRB\\WpfAppNBRB\\Model\\RateShort.cs",
+              "RelativeDocumentMoniker": "WpfAppNBRB\\Model\\RateShort.cs",
+              "ToolTip": "C:\\Users\\platu\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\WpfAppNBRB\\WpfAppNBRB\\Model\\RateShort.cs",
+              "RelativeToolTip": "WpfAppNBRB\\Model\\RateShort.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T12:28:30.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApiCaller.cs",
+              "DocumentMoniker": "C:\\Users\\platu\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\WpfAppNBRB\\WpfAppNBRB\\Service\\ApiCaller.cs",
+              "RelativeDocumentMoniker": "WpfAppNBRB\\Service\\ApiCaller.cs",
+              "ToolTip": "C:\\Users\\platu\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\WpfAppNBRB\\WpfAppNBRB\\Service\\ApiCaller.cs",
+              "RelativeToolTip": "WpfAppNBRB\\Service\\ApiCaller.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T12:28:28.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ApiRoutes.cs",
+              "DocumentMoniker": "C:\\Users\\platu\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\WpfAppNBRB\\WpfAppNBRB\\Service\\ApiRoutes.cs",
+              "RelativeDocumentMoniker": "WpfAppNBRB\\Service\\ApiRoutes.cs",
+              "ToolTip": "C:\\Users\\platu\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\WpfAppNBRB\\WpfAppNBRB\\Service\\ApiRoutes.cs",
+              "RelativeToolTip": "WpfAppNBRB\\Service\\ApiRoutes.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T12:28:26.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FileSaver.cs",
+              "DocumentMoniker": "C:\\Users\\platu\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\WpfAppNBRB\\WpfAppNBRB\\Service\\FileSaver.cs",
+              "RelativeDocumentMoniker": "WpfAppNBRB\\Service\\FileSaver.cs",
+              "ToolTip": "C:\\Users\\platu\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\WpfAppNBRB\\WpfAppNBRB\\Service\\FileSaver.cs",
+              "RelativeToolTip": "WpfAppNBRB\\Service\\FileSaver.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T12:28:21.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CurrencyWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\platu\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\WpfAppNBRB\\WpfAppNBRB\\View\\CurrencyWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WpfAppNBRB\\View\\CurrencyWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\platu\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\WpfAppNBRB\\WpfAppNBRB\\View\\CurrencyWindow.xaml.cs",
+              "RelativeToolTip": "WpfAppNBRB\\View\\CurrencyWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T12:28:17.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "RateWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\platu\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\WpfAppNBRB\\WpfAppNBRB\\View\\RateWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WpfAppNBRB\\View\\RateWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\platu\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\WpfAppNBRB\\WpfAppNBRB\\View\\RateWindow.xaml.cs",
+              "RelativeToolTip": "WpfAppNBRB\\View\\RateWindow.xaml.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAABEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T12:28:04.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\platu\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\WpfAppNBRB\\WpfAppNBRB\\View\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WpfAppNBRB\\View\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\platu\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\WpfAppNBRB\\WpfAppNBRB\\View\\MainWindow.xaml.cs",
+              "RelativeToolTip": "WpfAppNBRB\\View\\MainWindow.xaml.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAABEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T12:27:56.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "CurrencyService.cs",
               "DocumentMoniker": "C:\\Users\\platu\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\WpfAppNBRB\\WpfAppNBRB\\Service\\CurrencyService.cs",
               "RelativeDocumentMoniker": "WpfAppNBRB\\Service\\CurrencyService.cs",
               "ToolTip": "C:\\Users\\platu\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\WpfAppNBRB\\WpfAppNBRB\\Service\\CurrencyService.cs",
               "RelativeToolTip": "WpfAppNBRB\\Service\\CurrencyService.cs",
-              "ViewState": "AQIAACMAAAAAAAAAAAAAwDYAAAAjAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAABAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-17T17:29:05.712Z",
+              "WhenOpened": "2024-10-21T12:20:20.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "BaseViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\platu\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\WpfAppNBRB\\WpfAppNBRB\\ViewModel\\BaseViewModel.cs",
+              "RelativeDocumentMoniker": "WpfAppNBRB\\ViewModel\\BaseViewModel.cs",
+              "ToolTip": "C:\\Users\\platu\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\WpfAppNBRB\\WpfAppNBRB\\ViewModel\\BaseViewModel.cs",
+              "RelativeToolTip": "WpfAppNBRB\\ViewModel\\BaseViewModel.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA4AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T12:18:08.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "RateViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\platu\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\WpfAppNBRB\\WpfAppNBRB\\ViewModel\\RateViewModel.cs",
+              "RelativeDocumentMoniker": "WpfAppNBRB\\ViewModel\\RateViewModel.cs",
+              "ToolTip": "C:\\Users\\platu\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\WpfAppNBRB\\WpfAppNBRB\\ViewModel\\RateViewModel.cs",
+              "RelativeToolTip": "WpfAppNBRB\\ViewModel\\RateViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEwAAABuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T12:08:11.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CurrencyViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\platu\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\WpfAppNBRB\\WpfAppNBRB\\ViewModel\\CurrencyViewModel.cs",
+              "RelativeDocumentMoniker": "WpfAppNBRB\\ViewModel\\CurrencyViewModel.cs",
+              "ToolTip": "C:\\Users\\platu\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\WpfAppNBRB\\WpfAppNBRB\\ViewModel\\CurrencyViewModel.cs",
+              "RelativeToolTip": "WpfAppNBRB\\ViewModel\\CurrencyViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T12:03:47.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RateDynamicEditWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\platu\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\WpfAppNBRB\\WpfAppNBRB\\View\\RateDynamicEditWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WpfAppNBRB\\View\\RateDynamicEditWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\platu\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\WpfAppNBRB\\WpfAppNBRB\\View\\RateDynamicEditWindow.xaml.cs",
+              "RelativeToolTip": "WpfAppNBRB\\View\\RateDynamicEditWindow.xaml.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAmwBAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T12:02:36.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RateWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\platu\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\WpfAppNBRB\\WpfAppNBRB\\View\\RateWindow.xaml",
+              "RelativeDocumentMoniker": "WpfAppNBRB\\View\\RateWindow.xaml",
+              "ToolTip": "C:\\Users\\platu\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\WpfAppNBRB\\WpfAppNBRB\\View\\RateWindow.xaml",
+              "RelativeToolTip": "WpfAppNBRB\\View\\RateWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-21T11:53:27.119Z",
               "EditorCaption": ""
             }
           ]

@@ -16,9 +16,6 @@ using WpfAppNBRB.ViewModel;
 
 namespace WpfAppNBRB.View
 {
-    /// <summary>
-    /// Interaction logic for RateWindow.xaml
-    /// </summary>
     public partial class RateWindow : Window
     {
         private RateViewModel _viewModel;
@@ -41,6 +38,13 @@ namespace WpfAppNBRB.View
             {
                 _viewModel.GetRatesCommand.Execute(selectedDate.Value);
             }
+        }
+        
+        private void OnOpenWidndowEditClick(object sender, RoutedEventArgs e)
+        {
+            RateDynamicEditWindow rateDynamicEditWindow = new RateDynamicEditWindow();
+
+            rateDynamicEditWindow.Show();
         }
 
     }

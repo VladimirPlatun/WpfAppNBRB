@@ -12,6 +12,7 @@ namespace WpfAppNBRB.ViewModel
     public class BaseViewModel : INotifyPropertyChanged
     {
         private protected readonly ICurrencyService _currencyService;
+        private protected readonly FileSaver _fileSaver = new FileSaver();
 
         public BaseViewModel()
         {

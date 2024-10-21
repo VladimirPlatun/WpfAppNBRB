@@ -60,6 +60,9 @@
     </ApplicationDefinition>
     <Compile Include="ViewModel\RateViewModel.cs" />
     <Compile Include="ViewModel\RelayCommand.cs" />
+    <Compile Include="View\RateDynamicEditWindow.xaml.cs">
+      <DependentUpon>RateDynamicEditWindow.xaml</DependentUpon>
+    </Compile>
     <Compile Include="View\RateWindow.xaml.cs">
       <DependentUpon>RateWindow.xaml</DependentUpon>
     </Compile>
@@ -92,6 +95,10 @@
       <DependentUpon>MainWindow.xaml</DependentUpon>
       <SubType>Code</SubType>
     </Compile>
+    <Page Include="View\RateDynamicEditWindow.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
     <Page Include="View\RateWindow.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
